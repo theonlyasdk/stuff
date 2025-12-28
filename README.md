@@ -1,2 +1,2 @@
-# stuff
-Random scripts n stuff
+# stash
+Collection of random scripts and files I found or made
